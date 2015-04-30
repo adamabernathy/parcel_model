@@ -24,17 +24,17 @@ GCC (version 4.9.2) then you are more than likely all set to go.
    
    You can use the included Makefile or manually compile with 
    
-   $ make
+    $ make
    
    or
    
-   $ g++ parcel_model.cpp -o p_model_r4_build_2 -lm -std=c++11
+    $ g++ parcel_model.cpp -o p_model_r4_build_2 -lm -std=c++11
 
 
-# Running the model ...
+## Running the model ...
 	Running the model is pretty simple, you can run with the default
 settings by simply running the compiled program, or you can ideally
-use the initialization script 'run_parcel_model.csh'. In this file 
+use the initialization script "run_parcel_model.csh". In this file 
 you will find a series of paramters and how to invoke them.
    
 # GNU Plot Extension ...
@@ -42,7 +42,7 @@ you will find a series of paramters and how to invoke them.
 potential temperature in terms of pressure. To run this script simply
 type 
 	
-	$ gnuplot 'p_model_plot.gp'
+    $ gnuplot 'p_model_plot.gp'
 	
 at the command line. Note: this script will export the plot as a PDF
 to the current directory. 
