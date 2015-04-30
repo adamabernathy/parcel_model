@@ -32,7 +32,7 @@ GCC (version 4.9.2) then you are more than likely all set to go.
 
 
 ## Running the model ...
-	Running the model is pretty simple, you can run with the default
+  Running the model is pretty simple, you can run with the default
 settings by simply running the compiled program, or you can ideally
 use the initialization script "run_parcel_model.csh". In this file 
 you will find a series of paramters and how to invoke them.
