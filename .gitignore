@@ -1,0 +1,6 @@
+# Results text file
+results.txt
+
+
+# Ignore the compiled program. It doesn't need to go back into the project
+p_model_r4_build_2
