@@ -8,14 +8,14 @@ available publicly through the class webpage. The include works have
 been open sourced under the Creative Commons CC-BY-NC-SA v4 license. 
 For more information please see 
 
-https://github.com/whokilledkermit/parcel_model/blob/master/LICENSE
+https://github.com/adamabernathy/parcel_model/blob/master/LICENSE
 
 ## Documentation ...
    The documentation was compiled using PDFLaTeX.
 
 ## Installation ...
    You can obtain the most recent version of the code at:
-      https://github.com/whokilledkermit/parcel_model/
+      https://github.com/adamabernathy/parcel_model/
 
 ## C++ Code Compiling ...
    Compiling of this code requires a C++ compiler with the C++11 
